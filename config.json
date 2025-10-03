@@ -1,0 +1,9 @@
+{
+    "url": {
+        "CSP_portal": {
+            "uat": "https://csp-uat.hkma.gov.hk"
+            }
+        },
+    "testing_account_path": "J:\\Projects\\CSP-AQA\\csp-new-gen-aqa-main\\test_accounts\\test_accounts.xlsx",
+    "testing_file_path": "J:\\Projects\\CSP AQA\\csp-new-gen-aqa-main\\test_data\\999991\\1 zip - failed preview\\999991_20250131_CL.zip"
+}
